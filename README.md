@@ -2,8 +2,7 @@
 
 # AI-powered Company Document Chatbot
 
-[![Case Study PDF](https://img.shields.io/badge/Case%20Study-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](./Trendance case study.pdf)
-
+[![Case Study PDF](https://img.shields.io/badge/Case%20Study-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](./Trendance_case_study.pdf)
 
 A full-stack Retrieval-Augmented Generation (RAG) web application using FastAPI, PostgreSQL, Redis, ChromaDB, React, and Tailwind CSS.
 
