@@ -1,4 +1,9 @@
+<img width="673" height="3" alt="image" src="https://github.com/user-attachments/assets/ad0de24e-e40f-4c1b-ba6a-dc1de853c336" />
+
 # AI-powered Company Document Chatbot
+
+[![Case Study PDF](https://img.shields.io/badge/Case%20Study-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](./Case_Study_Company_Document_Chatbot.pdf)
+
 
 A full-stack Retrieval-Augmented Generation (RAG) web application using FastAPI, PostgreSQL, Redis, ChromaDB, React, and Tailwind CSS.
 
